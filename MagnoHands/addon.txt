@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Magno Hands"
+	"version"			"1"
+	"up_date"			"00/00/00"
+	"author_name"			"Bluekiller"
+	"author_email"			""
+	"author_url"			"https://github.com/Blueblood1/MagnoHands"
+	"info"				"A mod which combines Magneto tool and Fists"
+	"override"			"0"
+}
